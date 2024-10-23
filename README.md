@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/d3/68/26/d36826951643df72e3fbbdfd846b36d4.gif" alt="MasterHead" width="1000px" height="350">
 <h1 align="center">Hi 👋, I'm Diya Khadgi</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+
 
 <img align="right" alt="coding" width="300" height="300" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
