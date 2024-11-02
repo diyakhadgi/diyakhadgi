@@ -4,9 +4,7 @@
 
 <img align="right" alt="coding" width="300" height="300" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
-- 🔭 I’m currently working on **Pawfect-Pets**
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Pawfect-Pets** 
 
 - 📫 How to reach me **khadgidiya8@gmail.com**
 
